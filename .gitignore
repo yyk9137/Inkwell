@@ -30,3 +30,13 @@ coverage/
 
 # Build
 *.tsbuildinfo
+
+# Database
+data/*.db
+*.db
+
+# OpenCode
+.opencode/
+
+# Junk
+--version
